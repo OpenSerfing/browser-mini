@@ -60,8 +60,8 @@ OpenSerfing requires Python 3.7 or higher and the PyQt5 and PyQtWebEngine librar
 
 ## Links
 
-- [Документация PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro)
-- [Документация PyQtWebEngine](https://www.riverbankcomputing.com/software/pyqtwebengine/)
+- [Doc PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro)
+- [Doc PyQtWebEngine](https://www.riverbankcomputing.com/software/pyqtwebengine/)
 
 ## License
 
