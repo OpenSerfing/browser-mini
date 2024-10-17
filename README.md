@@ -12,7 +12,6 @@ OpenSerfing is a web browser with support for tabs, browser history, navigation,
 - Save and load history
 - Multimedia support
 - HTML, CSS, JS
-- It probably doesn't slow down YouTube, I'm from Kazakhstan and I don't know for sure.
 
 ## Installation
 
@@ -21,8 +20,8 @@ OpenSerfing requires Python 3.7 or higher and the PyQt5 and PyQtWebEngine librar
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AnmiTaliDev/openserfing.git
-    cd openserfing
+    git clone https://github.com/openserfing/browser-mini.git
+    cd browser-mini
     ```
 
 2. Create a virtual environment and activate it:
